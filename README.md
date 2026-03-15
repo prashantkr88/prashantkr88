@@ -43,6 +43,7 @@ A web application where patients can book appointments with doctors and manage t
 
 ### 🎉 Event Management System
 A system that helps manage and organize events efficiently.
+Click: https://github.com/prashantkr88/Event-Management-System
 
 ### 🌐 PHP E-Portfolio Website
 A personal portfolio website built using PHP to showcase projects and skills.
