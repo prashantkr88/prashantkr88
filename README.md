@@ -52,26 +52,6 @@ Fetches current weather temperature and helps users make decisions based on weat
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prashantkr88&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantkr88&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=prashantkr88&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
 ## 📈 Currently Learning
 
 - Advanced PHP  
